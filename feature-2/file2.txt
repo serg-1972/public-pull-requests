@@ -1,3 +1,5 @@
 First line in file2.txt
 
 Second line in file2
+
+Third line in file3
