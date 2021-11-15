@@ -7,3 +7,4 @@ Learn dealing with public repositories
 - [x] use Visual Studio Code
 - [ ] use GitKraken
 - [ ] check common editing
+- [ ] check collision
